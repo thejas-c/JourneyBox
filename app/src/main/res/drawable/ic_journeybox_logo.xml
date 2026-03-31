@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Smartphone -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M80,50 L120,50 Q125,50 125,55 L125,145 Q125,150 120,150 L80,150 Q75,150 75,145 L75,55 Q75,50 80,50 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,60 L120,60 L120,135 L80,135 Z" />
+    <!-- Home button on phone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,143 A3,3 0 1,1 100,142.99 Z" />
+
+    <!-- Orbiting Airplane path -->
+    <path
+        android:strokeColor="#FF9800"
+        android:strokeWidth="2"
+        android:pathData="M50,100 A60,50 0 1,1 150,100" />
+
+    <!-- Airplane (Simplified) -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M150,90 L160,100 L150,110 L155,100 Z" />
+</vector>

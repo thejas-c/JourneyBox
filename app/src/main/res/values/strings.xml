@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JourneyBox</string>
+    <!-- Replace with your actual Web Client ID from Firebase Console -->
+    <string name="default_web_client_id">1076575612321-d7apj0v2s26ch8dnddg4no175hntsgkg.apps.googleusercontent.com</string>
+</resources>

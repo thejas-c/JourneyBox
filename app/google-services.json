@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076575612321",
+    "project_id": "journeybox",
+    "storage_bucket": "journeybox.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076575612321:android:185089f0568ab6a8402fe0",
+        "android_client_info": {
+          "package_name": "com.example.journeybox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076575612321-g7p00tlrmiulv98vub1von12mssccvp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.journeybox",
+            "certificate_hash": "4c2068537f5cdd3d2847e74771bf541941762891"
+          }
+        },
+        {
+          "client_id": "1076575612321-d7apj0v2s26ch8dnddg4no175hntsgkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWBwwa9a9xFDgZwMdeYAOEgFSaTnSxnt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076575612321-d7apj0v2s26ch8dnddg4no175hntsgkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
